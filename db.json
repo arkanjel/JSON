@@ -4,13 +4,13 @@
       "id": 1,
       "title": "Miku Hatsune",
       "content":"Cantante virtual",
-      "image": ""
+      "image": "img/MousePad(MikuHatsune2).png"
     },
      {
       "id": 2,
-      "title": "Goku",
+      "title": "Nezuko kamado",
       "content":"personaje de anime",
-      "image": ""
+      "image": "img/MousePad(Nezuko).png"
     }
   ],
   "profile": {
