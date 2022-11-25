@@ -4,13 +4,13 @@
       "id": 1,
       "title": "Miku Hatsune",
       "content":"Cantante virtual",
-      "image": "./img/MousePad(MikuHatsune2).png"
+      "image": "https://github.com/arkanjel/JSON/blob/main/img/MousePad(MikuHatsune2).png"
     },
      {
       "id": 2,
       "title": "Nezuko kamado",
       "content":"personaje de anime",
-      "image": "./img/MousePad(Nezuko).png"
+      "image": "https://github.com/arkanjel/JSON/blob/main/img/MousePad(Nezuko).png"
     }
   ],
   "profile": {
