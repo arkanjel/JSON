@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Miku Hatsune",
+      "content":"Cantante virtual",
+      "image": ""
+    },
+     {
+      "id": 2,
+      "title": "Goku",
+      "content":"personaje de anime",
+      "image": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
