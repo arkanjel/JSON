@@ -1,28 +1,34 @@
 {
   "documents": [
-    {
+  {
       "id": 1,
-      "title": "Miku Hatsune",
-      "content":"Cantante virtual del programa Vocaloid",
-      "image": "https://www.infobae.com/new-resizer/4jtM6V84g6zrt9UavGlTNJNpngg=/992x661/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RL5KGXTOTNF5RGQEBWLW5D66YI.png"
+      "title": "Matrix",
+      "content": "Neo descubre que el mundo en el que vive es una simulación y se une a la lucha contra las máquinas",
+      "image": "https://picsum.photos/200/300"
     },
-     {
+    {
       "id": 2,
-      "title": "Nezuko kamado",
-      "content":"Personaje del anime kimetsu no yaiba",
-      "image": "https://elcomercio.pe/resizer/fXFtFRvSKI0JF7rj-jTHVXCKSFA=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KQP47Y45CRCYPKBT6EEUVNTK4E.jpg"
+      "title": "El Señor de los Anillos: La Comunidad del Anillo",
+      "content": "Frodo emprende un viaje para destruir el anillo del poder antes de que caiga en manos del Señor Oscuro Sauron",
+      "image": "https://picsum.photos/200/300"
     },
-     {
+    {
       "id": 3,
-      "title": "Kaguya shinomiya",
-      "content":"Personaje del anime Kaguya-sama: Love is War",
-      "image": "https://somoskudasai.com/wp-content/uploads/2022/02/Visual-19-2.jpg"
+      "title": "Star Wars: Episodio IV - Una Nueva Esperanza",
+      "content": "Un joven granjero se une a la lucha contra el Imperio Galáctico y se convierte en un héroe legendario",
+      "image": "https://picsum.photos/200/300"
     },
-     {
+    {
       "id": 4,
-      "title": "Amiya",
-      "content":"Personaje del juego arknights",
-      "image": "https://images3.alphacoders.com/102/1024266.png"
+      "title": "Volver al Futuro",
+      "content": "Marty McFly viaja en el tiempo y trata de arreglar el pasado para salvar su futuro",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 5,
+      "title": "Jurassic Park",
+      "content": "Un parque temático de dinosaurios se sale de control y un grupo de personas lucha por sobrevivir",
+      "image": "https://picsum.photos/200/300"
     }
   ]
 }
